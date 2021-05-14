@@ -51,7 +51,7 @@ Load Balancing:  https://cloud.google.com/load-balancing/docs/load-balancing-ove
 
 
 
-###Deploying and implementing a cloud solution
+### Deploying and implementing a cloud solution
 
 Compute Engine:  https://cloud.google.com/compute/docs/
 
