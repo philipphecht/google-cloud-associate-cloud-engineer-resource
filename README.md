@@ -72,3 +72,26 @@ Creating groups of managed instances with templates:  https://cloud.google.com/c
 Using VPC networks:  https://cloud.google.com/vpc/docs/using-vpc
 
 Deployment manager fundamentals:  https://cloud.google.com/deployment-manager/docs/fundamentals
+
+
+### Configuring access and security
+
+Google Cloud IAM:  https://cloud.google.com/iam/docs/
+
+Security and Identity Fundamentals Quest:  https://www.qwiklabs.com/quests/40
+
+Cloud IAM Overview:  https://cloud.google.com/iam/docs/overview
+
+Understanding IAM roles:  https://cloud.google.com/iam/docs/understanding-roles
+
+Understanding Custom IAM roles:  https://cloud.google.com/iam/docs/understanding-custom-roles
+
+Granting or changing access in IAM:  https://cloud.google.com/iam/docs/granting-changing-revoking-access
+
+Understanding Service Accounts:  https://cloud.google.com/iam/docs/understanding-service-accounts
+
+Service Accounts:  https://cloud.google.com/iam/docs/service-accounts
+
+Cloud Audit Logging overview: https://cloud.google.com/logging/docs/audit/
+
+Services that product Audit Logs:  https://cloud.google.com/logging/docs/audit/#services
